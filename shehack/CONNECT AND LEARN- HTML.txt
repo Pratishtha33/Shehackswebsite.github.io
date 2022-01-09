@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title> Connect and Learn</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>CODEFLIX</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+</head>
+
+<body>
+
+  <div class="topnav">
+    <ul>
+      <a href="#resources">Resources</a>
+      <a href="#Communities">Communities</a>
+      <a href="#Podcast">Podcast</a>
+      <a href="#Internship-and-opportunites">Opportunites</a>
+    </ul>
+  </div>
+  
+<h1>CONNECT AND LEARN</h1>
+  <div class="text-typing">
+    
+    <p> We Learn Better When We Are Together, Lets Connect And Learn!! &nbsp;</p>
+  </div>
+  <img src="Webp.net-gifmaker.gif" width="400" height="500" class="responsive">
+
+  <!--<h1 style=font-family:'Redressed' cursivey;>CONNECT AND LEARN</h1>
+  <h3> You learn better when we are together</h3>
+  <img src="Webp.net-gifmaker.gif" width="400" height="500" class="responsive">-->
+  <div class="animated-circles">
+    <ul class="box-area">
+
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ul>
+
+<div class="sub-section">
+    <div id="internship-and-opportunities" class="main-size">
+      
+      <img class="img-rgt" src="opport-removebg-preview.png" align="right">
+      
+    <div class="heading" >
+      <h4> Internships & <br> Opportunity <br></h4>
+
+
+    <p>hghghghghghghghghhghghghgghghghghghg</p>
+    
+    </div>
+
+        <div class="container">
+        <div class="heading-box">
+     
+        </div>
+        <div class="row">
+          <div class="card">
+            <div class="card-header">
+              <h3>Campus Ambassador Programme</h3>
+              
+            </div>
+            <div class="card-body">
+              <p>
+                
+               <b>START DATE- Open Now <br> DURATIOn-1 Month <br> DEADLINE- 22 Mar' 21</b>
+              </p>
+              <a href="https://internshala.com/registration/student" class="btn">APPLY NOW</a>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3>Summer Analyst Internship (GoldmanSachs)</h3>
+            </div>
+            <div class="card-body">
+              <p>
+                <b>START DATE- Open Now   <br>DURATION- 8-10 Weeks <br> DEADLINE- Vary by school</b>
+              </p>
+              <a href="https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-caeaaeb33c61/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB" class="btn">APPLY NOW</a>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3>Web. Development Internship <br> (IIT Bombay)</h3>
+            </div>
+            <div class="card-body">
+              <p>
+                <b>START DATE- Open Now   <br>DURATION- 6 Months <br> DEADLINE- 23 Mar' 21</b>
+              </p>
+              <a href="https://internshala.com/internship/detail/backend-development-work-from-home-job-internship-at-iit-bombay1615295910" class="btn">APPLY NOW</a>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3> Summer Internship 2021 <br>(IIIT Delhi)</h3>
+            </div>
+            <div class="card-body">
+              <p>
+               <b>START DATE- Open Now <br>DURATION- 2 Months <br> DEADLINE- 31st March'21</b>
+              </p>
+              <a href="https://www.iiitd.ac.in/placement/summer-internships#" class="btn">APPLY NOW</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      
+
+
+      <div id="podcast" class="main-size">
+        <img class="img-rgt" src="Podcast_Freelanc-removebg-preview.png" align="right" width="45%" shift="departments">
+       <div class="heading" > 
+         <h4> PODCAST</h4>
+         
+
+       <p>hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+       
+       </div>
+      <div class="container">
+        <div class="heading-box">
+     
+        </div>
+        <div class="row">
+          <div class="card4">
+            <div class="card-header4">
+              <h3> TECHNOVATION </h3>
+              
+            
+              
+            </div>
+            <div class="card-body4">
+              <p>
+               <b>Technovation is a twice-weekly podcast series featuring conversations with top executives (CIOs, CDOs, CTOs) and thought leaders at the intersection of business, technology, and innovation.  The leaders driving digital change inside their organizations. Hosted by Metis Strategy president Peter High, Technovation is the premier podcast for IT and technology.</b>
+              </p>
+              <a href="https://www.metisstrategy.com/technovation/?&pseries=560" class="btn">LISTEN NOW</a>
+            </div>
+          </div>
+          <div class="card4">
+            <div class="card-header4">
+              <h3>The CLOUDCAST</h3>
+            </div>
+            <div class="card-body4">
+              <p>
+                <b>The Cloudcast is the industry's leading, independent Cloud Computing podcast. The interviewed technology and business leaders that are shaping the future of computing. Topics will include Cloud Computing | Open Source | AWS | Azure | GCP | Serverless | DevOps | Big Data | ML | AI | Security | Kubernetes | AppDev | CaaS | IoT. Also available, the "Cloudcast Basics" podcast.</b>
+              </p>
+              <a href="https://www.thecloudcast.net/" class="btn">LISTEN NOW</a> 
+            </div>
+          </div>
+          <div class="card4">
+            <div class="card-header4">
+            <h3>Supporting I.T. Support</h3>
+            </div>
+            <div class="card-body4">
+              <p>
+              <b>Calling all IT support professionals! This monthly podcast looks at the intersection of business and tech from the perspective of IT support—the everyday heroes of every company. Hosted by Jesse Nowlin, Each episode features an interviewer with a veteran IT professional on subjects from career growth to success and failures.</b>
+              </p>
+              <a href="https://anchor.fm/tabgeeks" class="btn">LISTEN NOW</a>
+            </div>
+          </div>
+         <!--<div class="card">
+            <div class="card-header">
+              <h3>name</h3>
+            </div>
+            <div class="card-body">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi neque molestiae eius explicabo mollitia tempore reiciendis, vel, sequi.
+              </p>
+              <a href="#" class="btn">Read more</a>
+            </div>
+          </div>-->
+        </div>
+      </div>
+
+      
+
+
+      <div id="cOMMUNITIES" class="main-size">
+        <img class="img-rgt" src="commu-removebg-preview.png" align="right" >
+        
+        <div class="heading">
+         <h4>COMMUNITIES</h4>
+         <p>hghghghghghghghghhghghghgghghghghghg</p>
+
+      </div>
+
+      
+    </div>
+    <div class="container">
+      <div class="heading-box">
+   
+      </div>
+      <div class="row">
+        <div class="card">
+          <div class="card-header3">
+          </div>
+          <div class="card-body3">
+            <img class="coding-img" src="MLSA.png">
+            <a href="https://studentambassadors.microsoft.com/" class="btn">Microsoft Learn<br>
+              Student Ambassadors</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header3">
+          
+          </div>
+          <div class="card-body3">
+            <img class="coding-img" src="mlh.png">
+            <a href="https://fellowship.mlh.io/" class="btn">Major League Hacking</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header3">
+            
+            
+          </div>
+          <div class="card-body3">
+            <img class="coding-img" src="dsc.jpg">
+            <a href="https://dsc.community.dev/" class="btn"> Developer Student Clubs  </a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header3">
+            
+          </div>
+          <div class="card-body3">
+            <img class="coding-img" src="angel.jpeg">
+            <a href="https://angelhack.com/ambassadors/" class="btn">Angelhack Student Ambassador</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      
+
+
+      <div id="Resources" class="main-size">
+        <img class="img-rgt" src="cv__recruitment__job__resume-removebg-preview.png" align="right">
+
+        <div class="heading">
+          <h4> RESOURCES</h4>
+        <p >eeeeeeeeeeeeeeeeeeeeeee</p>
+      </div>
+    
+
+    <div class="container">
+      <div class="heading-box">
+   
+      </div>
+      <div class="row">
+        <div class="card">
+          <div class="card-header">
+            <h3>W3SCHOOLS</h3>
+            
+          </div>
+          <div class="card-body">
+            <p>
+              The Largest Web Developer Site on the Internet 3 Billion Pages Displayed Each Year  60 Million Visitors Every Month.W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding
+            </p>
+            <a href="https://www.w3schools.com/" class="btn">CHECK OUT</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <h3>FREECODECAMP</h3>
+          </div>
+          <div class="card-body">
+            <p>
+              freeCodeCamp is a nonprofit organization that is donor-supported. Their goal is to help people learn to code for free. They achieve this through lessons, videos, articles, and study groups around the world
+            </p>
+            <a href="https://www.freecodecamp.org/news/tag/coding-bootcamps/" class="btn">CHECK OUT</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header6">
+            <h3>CODE WITH HARRY</h3>
+          </div>
+          <div class="card-body">
+            <p>
+              This is <b> YOUTUBE</b> channel has a lot of content from web to Android development to various programming languages ,this channel has all. And most exciting part is this channel has some wonderful software projects which will further enhance your coding.
+
+
+            </p>
+            <a href="https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww" class="btn">YOUTUBE </a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <h3>CODE FOR CAUSE</h3>
+          </div>
+          <div class="card-body">
+            <p>
+             This <b> YOUTUBE</b> channel provides guidance and mentorship to students. Not only for those who lack on-campus opportunities but also for those who lack awareness about the possibilities in the field. Stay Updated with the latest trends in technology, opportunities.
+            </p>
+            <a href="https://www.youtube.com/c/CodeforCause/videos" class="btn">YOUTUBE</a>
+          </div>
+        </div>
+      </div>
+    </div>
+      
+    </div>
+  </div>
+    
+  
+  
+</body>
+
+</html>

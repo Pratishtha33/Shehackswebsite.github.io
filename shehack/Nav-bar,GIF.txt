@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title> Connect and Learn</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>CODEFLIX</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+</head>
+
+<body>
+
+  <div class="topnav">
+    <ul>
+      <a href="#resources">Resources</a>
+      <a href="#Communities">Communities</a>
+      <a href="#Podcast">Podcast</a>
+      <a href="#Internship-and-opportunites">Opportunites</a>
+    </ul>
+  </div>
+  
+<h1>CODEFLIX</h1>
+  <div class="text-typing">
+    
+    <p> We Learn Better When We Are Together, Lets Connect And Learn!! &nbsp;</p>
+  </div>
+  <img src="Webp.net-gifmaker.gif" width="400" height="500" class="responsive">
+
+
+  <div class="animated-circles">
+    <ul class="box-area">
